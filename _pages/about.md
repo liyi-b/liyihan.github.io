@@ -9,3 +9,6 @@ redirect_from:
 ---
 
 I'm a first year doctoral student from [ETH Zurich](https://ethz.ch/de.html). My research interest includes AI for drug discovery, LLM in bioscience and applying machine learning in biology.  
+
+
+Find my CV here: [CV](../assets/CV.pdf)
